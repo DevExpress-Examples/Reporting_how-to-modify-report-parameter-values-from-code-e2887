@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/SilverlightReports/MainPage.xaml) (VB: [MainPage.xaml](./VB/SilverlightReports/MainPage.xaml))
+* [MainPageViewModel.cs](./CS/SilverlightReports/MainPageViewModel.cs) (VB: [MainPageViewModel.vb](./VB/SilverlightReports/MainPageViewModel.vb))
+<!-- default file list end -->
 # How to modify report parameter values from code
 
 
